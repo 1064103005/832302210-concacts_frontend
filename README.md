@@ -20,16 +20,6 @@
 - 脚本：原生 ES6+（fetch API）
 - 运行：任意静态文件服务器
 
-## 目录结构
-832302210_concacts_frontend/
-├─ src/
-│  ├─ contacts.html
-│  ├─ css/style.css
-│  └─ js/app.js
-├─ README.md
-└─ codestyle.md
-
-
 ## 本地运行
 1. 克隆仓库  
    ```bash
@@ -48,4 +38,4 @@ npx http-server src -p 8000
 -修改联系人时始终从数据库拉取最新数据，禁止本地缓存
 -所有成功/失败操作均给出弹窗或行内提示
 -相关链接
--后端仓库：https://github.com/f2x1/832302210_concacts_backend
+-后端仓库：https://github.com/1064103005/832302210_concacts_backend
